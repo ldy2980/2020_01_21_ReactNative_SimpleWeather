@@ -1,2 +1,2 @@
-# RN-weather
-Learning React-Native App
+# SimpleWeather
+Created with React-Native
